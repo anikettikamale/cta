@@ -1,0 +1,50 @@
+<html>
+<html lang="en">
+<head>
+<title>menu desuign card </title>
+</head>
+<body>
+<table border="5px" align="center">
+    <tr>
+        <th colspan="3">
+            <marquee>
+        <img scr="ip10.jpg" alt= "MENUHUB">
+        </marquee>
+
+        </tr>
+     <td> <img src ="i9.jpg" width ="600px"></td>
+        <td>
+            <ul>
+             <marquee direction ="down" color ="red">
+                 <font face ="monotype corsiva"></font>
+                 <h1><b>welcome</h1></marquee>
+                    
+                    <font color = "ff0099">
+                        
+                        <body bgcolor ="00ff66">
+                            <li> dal fry :rs 120</li>
+                            <li>mix veg carry:rs 139</li>
+                            <li>veg kofta:rs 240 </li>
+                            <li>veg jaypuri:rs 230</li>
+                            <li>veg kolpuri:rs 240</li>
+                            <li>veg kurma:rs 258</li>
+                            <li>veg masala :rs 257</li>
+                            <li>veg haidrabadi:rs 256</li>
+                        </ul>
+                        <ul>
+                            <li>paneer jaypuri:rs 352</li>
+                            <li>shahi paneer:rs 350</li>
+                            <li>shahi mulghlai paneer:rs 340</li>
+                            <li>paneer lababdar:rs 200</li>
+                            <li>pamneer lahori:rs 357</li>
+                            <li>paneer mitsari:rs 358</li>
+                            </ul>
+                        </td>
+                        <tr>
+                        </body>
+                    </table>
+                </body>
+                </html>
+
+
+
