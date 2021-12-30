@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>title>img property</title>
+    <style>
+        img{border:5pixel solid red
+        border-radius:10 pixel
+    max: width 100%;
+margin-left:30 pixel
+margin-top:40 pixel
+padding:20 pixel
+filter:brigtness(40);
+opacity:-0.71;
+
+}
+    </style>
+</head>
+<body>
+    <img src="image1.jpg">
+</body>
